@@ -4,9 +4,9 @@
     <div class="row">
       <div class="col-md-6">
         {{ with site.GetPage "privacy.md" }}
-        <p class="powered-by">
+        <!-- <p class="powered-by">
           {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-        </p>
+        </p> -->
         {{ end }}
         <p>
           {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}

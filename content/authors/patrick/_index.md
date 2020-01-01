@@ -1,24 +1,24 @@
 ---
 # Display name
-name: Michael Vahn
-avatar_image: "user-full.png"
+name: Truong-Phat Nguyen
+avatar_image: "patrick.jpg"
 # Username (this should match the folder name)
 authors:
-- admin
+- patrick
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "https://drive.google.com/open?id=1lzPvdB6yVoW7S__LC_76n8vtU0ZQ3v33"
   label : "Download Resume"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science Undergraduate 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Information Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ display_education: false
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Computer Vision
 - Information Retrieval
 
 education:
@@ -74,11 +74,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Computer Science Undergraduate at University of Information Technology. My research interest revolves around Visual-Linguistic Artificial Intelligence, of how embed vision and language in order to create high-level understanding machines.  
 
-![reviews](../../img/certifacates.jpg)
+![reviews](../../img/certificate.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.

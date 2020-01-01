@@ -18,36 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Python Course Mentor"
+  company = "HasBrain"
+  company_url = "http://www.hasbrain.com/"
+  location = "HCMC, Vietnam"
+  date_start = "2019-01-01"
+  date_end = "2019-11-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+ Main responsibilities
+
+* Instructing Python Fundamentals Course for non-tech Data Analytics pursuers
+* Writing course-ware & learning materials
+* Preparing lesson plans & setting up curriculum
+* Supporting mentors in Data Analytics courses
   """
-
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "English Language Instructor"
+  company = "Topica Edtech Group"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "HCMC, Vietnam"
+  date_start = "2018-10-01"
+  date_end = "2019-02-01"
+  description = """
+   Main responsibilities
 
-[[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+* Giving lectures to both bilingual classes and English-only classes
+* Support foreign teachers and students in basic-level courses
+* Administering topic-based English discussion groups
+* Support teaching and help thousands of people improve their English"""
+
+
   
 +++

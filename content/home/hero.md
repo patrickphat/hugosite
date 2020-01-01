@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "patrick.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,14 +34,14 @@ hero_media = "user-2.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
+  url = "/authors/patrick"
+  label = "Get to know me"
   
 [btn_alt]
   url = "#contact"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Truong-Phat Nguyen** and I'm a **CS Undergraduate** specializing in **Artificial Intelligence**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Hey, I love disruptive technology. You can share with me if you know any cool-ass tech!

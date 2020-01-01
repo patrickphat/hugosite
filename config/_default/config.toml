@@ -5,11 +5,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academia"
+title = "Truong-Phat Nguyen"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "https://academia-hugo.netlify.com/"
+baseURL = "https://patrickphat.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
@@ -19,7 +19,7 @@ copyright = ""
 googleAnalytics = ""
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "truongphatnguyen"
 
 ############################
 ## Advanced options below ##
@@ -30,6 +30,9 @@ theme = "academia"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
+
+# Email for contact phone 
+email = "patricknewyen@gmail.com"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
