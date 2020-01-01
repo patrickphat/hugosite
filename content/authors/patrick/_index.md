@@ -8,7 +8,7 @@ authors:
 # resume download button
 btn:
 - url : "https://drive.google.com/open?id=1lzPvdB6yVoW7S__LC_76n8vtU0ZQ3v33"
-  label : "Download Resume"
+  label : "Download my resume!"
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,4 +73,15 @@ user_groups:
 I am a Computer Science Undergraduate at University of Information Technology. My research interest revolves around Visual-Linguistic Artificial Intelligence, of how embed vision and language in order to create high-level understanding machines.  
 
 ![reviews](../../img/certificate.jpg)
+## Achievements
+### Top 10 Zalo AI Challenge (2019)
 
+*Our team ranked at 10/119 leaderboard on question answering task*
+
+### 50 Million VND Investment for Best English Learning Project (2017)
+
+*@ Hanoi English Club Festival 2017 - Vietnamese Students’ Association* 
+
+### The third-class prize in the HCMC municipal Physics contest (2017)
+
+*Vietnamese Minister of Education and Training*
