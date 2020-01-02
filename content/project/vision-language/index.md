@@ -1,9 +1,8 @@
 ---
-title: Artificial Intelligence
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
+title: Vision and Language
+summary: Fuse vision and language to make high-level understanding machine
 tags:
-- Demo
-- robotics
+- Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
