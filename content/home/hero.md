@@ -38,7 +38,7 @@ hero_media = "patrick.jpg"
   label = "Get to know me"
   
 [btn_alt]
-  url = "mailto:patricknewyen@gmail.com"
+  url = "/#contact"
   label = "Contact me"
 
 +++

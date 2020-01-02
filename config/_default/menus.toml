@@ -23,6 +23,11 @@
   url = "/authors/patrick"
   weight = 50
 
+[[main]]
+  name = "Contact me"
+  url = "/#contact"
+  weight = 60
+
 
 
 
