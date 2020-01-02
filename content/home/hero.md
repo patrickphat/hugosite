@@ -44,4 +44,4 @@ hero_media = "patrick.jpg"
 +++
 ## My name is **Truong-Phat Nguyen** and I'm a **CS Undergraduate** specializing in **Artificial Intelligence**
 
-Hey, I love disruptive technology. You can share with me if you know any cool-ass tech!
+Hey, I love disruptive technology. You can share with me if you know any!
